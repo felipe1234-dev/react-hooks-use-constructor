@@ -3,13 +3,12 @@
     "version": "0.1.0",
     "description": "Implementing constructors in React Hooks",
     "main": "./lib/useConstructor.js",
-    "homepage": "",
+    "homepage": "https://github.com/felipe1234-dev/react-hooks-use-constructor",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
     },
     "peerDependencies": {
-        "prop-types": "^15.6.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
     },
