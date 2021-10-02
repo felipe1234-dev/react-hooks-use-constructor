@@ -1,8 +1,9 @@
 {
     "name": "react-hooks-constructor",
     "version": "0.1.0",
-    "description": "",
+    "description": "Implementing constructors in React Hooks",
     "main": "./lib/useConstructor.js",
+    "homepage": "",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
